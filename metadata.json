@@ -1,0 +1,10 @@
+
+{
+  "name": "UrbisPulse - Public Transparency Ecosystem",
+  "description": "A high-end e-governance platform for transparent public complaint filing, community pulse tracking, and accountable resolution.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
